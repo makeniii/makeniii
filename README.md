@@ -1,4 +1,4 @@
-You might not know but I like the NBA
+You might not know this, but I like the NBA
 
 <!---
 makeniii/makeniii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
